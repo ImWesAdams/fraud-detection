@@ -1,0 +1,1 @@
+Fraud detection is a common application for data science and machine learning techniques. This repository contains some hobbyist and educational experience and materials in this space.
